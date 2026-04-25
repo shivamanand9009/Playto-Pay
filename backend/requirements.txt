@@ -6,3 +6,4 @@ redis==5.1.1
 psycopg2-binary==2.9.9
 django-celery-beat==2.7.0
 flower==2.0.1
+gunicorn==22.0.0
